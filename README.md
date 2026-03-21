@@ -30,7 +30,7 @@ User Input (Symptoms / PDF)
         │
         ▼
 ┌─────────────────────────────────────────────────────────┐
-│                    ORCHESTRATOR                          │
+│                    ORCHESTRATOR                         │
 │                                                         │
 │  ┌──────────────┐    ┌───────────────────────────────┐  │
 │  │ Conversation │    │   Symptom Extraction Agent    │  │
@@ -38,24 +38,24 @@ User Input (Symptoms / PDF)
 │  └──────────────┘    └───────────────────────────────┘  │
 │                                    │                    │
 │                                    ▼                    │
-│  ┌─────────────────────────────────────────────────┐   │
-│  │           Retrieval Agent (RAG)                  │   │
-│  │    FAISS Vector DB ← OpenAI Embeddings          │   │
-│  │    Medical Knowledge Documents (.txt)            │   │
-│  └─────────────────────────────────────────────────┘   │
+│  ┌─────────────────────────────────────────────────┐    │
+│  │           Retrieval Agent (RAG)                 │    │
+│  │    FAISS Vector DB ← OpenAI Embeddings          │    │
+│  │    Medical Knowledge Documents (.txt)           │    │
+│  └─────────────────────────────────────────────────┘    │
 │                                    │                    │
 │                                    ▼                    │
-│  ┌──────────────────────┐  ┌──────────────────────┐   │
-│  │   Reasoning Agent    │  │  Risk Assessment      │   │
-│  │  (Chain-of-Thought   │  │  Agent               │   │
-│  │   Differential Dx)   │  │  (Rules + LLM)       │   │
-│  └──────────────────────┘  └──────────────────────┘   │
+│  ┌──────────────────────┐  ┌──────────────────────┐     │
+│  │   Reasoning Agent    │  │  Risk Assessment     │     │
+│  │  (Chain-of-Thought   │  │  Agent               │     │
+│  │   Differential Dx)   │  │  (Rules + LLM)       │     │
+│  └──────────────────────┘  └──────────────────────┘     │
 │                                    │                    │
 │                                    ▼                    │
-│  ┌─────────────────────────────────────────────────┐   │
-│  │         Recommendation Agent                     │   │
-│  │  (Next steps + Plain-language explanation)       │   │
-│  └─────────────────────────────────────────────────┘   │
+│  ┌─────────────────────────────────────────────────┐    │
+│  │         Recommendation Agent                    │    │
+│  │  (Next steps + Plain-language explanation)      │    │
+│  └─────────────────────────────────────────────────┘    │
 └─────────────────────────────────────────────────────────┘
         │
         ▼
