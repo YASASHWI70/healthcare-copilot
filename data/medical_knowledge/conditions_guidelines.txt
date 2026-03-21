@@ -1,0 +1,173 @@
+MEDICAL KNOWLEDGE BASE - COMMON CONDITIONS AND SYMPTOMS
+Source: Clinical Reference Guidelines (Educational)
+
+=============================================================
+RESPIRATORY CONDITIONS
+=============================================================
+
+COMMON COLD (Upper Respiratory Infection)
+- Symptoms: Runny nose, nasal congestion, sneezing, mild sore throat, mild cough, low-grade fever (below 38.3°C), mild fatigue, watery eyes
+- Duration: 7-10 days
+- Risk Level: Low
+- Key differentiator: Gradual onset, no severe muscle aches
+- Management: Rest, hydration, over-the-counter symptom relief
+- Red flags: Fever >38.9°C, symptoms lasting >10 days, severe headache, shortness of breath
+
+INFLUENZA (Flu)
+- Symptoms: Sudden onset high fever (38.3-40°C), severe muscle aches (myalgia), severe fatigue, dry cough, headache, chills, loss of appetite, sore throat
+- Duration: 1-2 weeks
+- Risk Level: Moderate (can be High in elderly, immunocompromised, or those with comorbidities)
+- Key differentiator: Abrupt onset, prominent systemic symptoms, severe fatigue
+- Management: Rest, fluids, antivirals (oseltamivir) within 48 hours of symptom onset, analgesics
+- Red flags: Difficulty breathing, persistent chest pain, confusion, severe vomiting, bluish lips
+
+PNEUMONIA
+- Symptoms: Productive cough (may include rust-colored sputum), high fever, chills, chest pain (worsens with breathing), shortness of breath, fatigue, sweating, nausea
+- Duration: Varies; 1-3 weeks with treatment
+- Risk Level: Moderate to High
+- Key differentiator: Pleuritic chest pain, productive cough, high fever
+- Management: Antibiotics (bacterial), antivirals (viral), hospitalization may be required
+- Red flags: O2 saturation <92%, confusion, inability to maintain oral intake, respiratory rate >30/min
+
+COVID-19
+- Symptoms: Fever or chills, cough (often dry), fatigue, loss of taste/smell (anosmia/ageusia), shortness of breath, headache, sore throat, runny nose, muscle pain, nausea/diarrhea
+- Duration: Varies; most recover in 2 weeks; Long COVID possible
+- Risk Level: Low to High (depends on age, vaccination status, comorbidities)
+- Key differentiator: Loss of taste/smell, known exposure, cluster cases
+- Management: Isolation, supportive care, antivirals (Paxlovid) for high-risk individuals
+- Red flags: Difficulty breathing, persistent chest pain/pressure, confusion, inability to wake
+
+ASTHMA EXACERBATION
+- Symptoms: Wheezing, shortness of breath, chest tightness, cough (often worse at night), rapid breathing
+- Duration: Episodic, minutes to days
+- Risk Level: Moderate to High
+- Key differentiator: Known asthma history, triggers (allergens, exercise, cold air), reversible with bronchodilators
+- Management: Short-acting bronchodilators (salbutamol), corticosteroids for moderate-severe exacerbations
+- Red flags: No response to bronchodilator, O2 sat <92%, inability to speak full sentences, altered consciousness
+
+=============================================================
+CARDIOVASCULAR CONDITIONS
+=============================================================
+
+HYPERTENSION (High Blood Pressure)
+- Symptoms: Often asymptomatic; headache (occipital), dizziness, visual disturbances, nosebleeds in severe cases
+- Risk Level: Moderate to High (depends on control and organ damage)
+- Key differentiator: Blood pressure readings >130/80 mmHg consistently
+- Management: Lifestyle modification, antihypertensives (ACE inhibitors, ARBs, calcium channel blockers, diuretics)
+- Red flags (Hypertensive Crisis): BP >180/120, severe headache, chest pain, shortness of breath, neurological symptoms
+
+ACUTE CORONARY SYNDROME / CHEST PAIN (Cardiac)
+- Symptoms: Central crushing/squeezing chest pain radiating to left arm/jaw/back, shortness of breath, sweating (diaphoresis), nausea/vomiting, light-headedness, sense of doom
+- Duration: >20 minutes for STEMI
+- Risk Level: HIGH — Medical Emergency
+- Key differentiator: Classic radiation pattern, associated diaphoresis, risk factors (age, smoking, diabetes, hypertension, hyperlipidemia)
+- Management: EMERGENCY - Call 911/ambulance immediately, aspirin 300mg, nitroglycerin if available
+- Red flags: ANY cardiac chest pain should be treated as emergency
+
+HEART FAILURE
+- Symptoms: Shortness of breath (especially when lying flat - orthopnea), ankle/leg swelling (edema), fatigue, reduced exercise tolerance, rapid or irregular heartbeat, persistent cough/wheezing, sudden weight gain
+- Risk Level: Moderate to High
+- Management: Diuretics, ACE inhibitors, beta-blockers, lifestyle changes, sodium restriction
+- Red flags: Acute pulmonary edema - severe breathlessness, frothy sputum (EMERGENCY)
+
+=============================================================
+GASTROINTESTINAL CONDITIONS
+=============================================================
+
+GASTROENTERITIS
+- Symptoms: Nausea, vomiting, diarrhea (watery), abdominal cramps, low-grade fever, muscle aches, headache
+- Duration: 1-3 days (viral), longer for bacterial
+- Risk Level: Low (moderate in vulnerable populations)
+- Key differentiator: Cluster cases, recent food exposure, community outbreak
+- Management: Oral rehydration, electrolyte replacement, rest; antibiotics only for specific bacterial causes
+- Red flags: Signs of dehydration (decreased urine, dry mouth, dizziness), blood in stool, high fever, symptoms >72 hours
+
+APPENDICITIS
+- Symptoms: Periumbilical pain migrating to right lower quadrant (McBurney's point), nausea, vomiting, fever, rebound tenderness, anorexia
+- Duration: Progressive over 12-72 hours
+- Risk Level: HIGH — Surgical Emergency if perforated
+- Key differentiator: Migration of pain, RLQ tenderness, guarding
+- Management: EMERGENCY surgical consultation - appendectomy
+- Red flags: Sudden relief of pain followed by diffuse pain (perforation)
+
+GASTROESOPHAGEAL REFLUX DISEASE (GERD)
+- Symptoms: Heartburn (burning sensation rising from stomach to chest), regurgitation, chest discomfort, difficulty swallowing, chronic cough, hoarseness, sour taste
+- Risk Level: Low to Moderate
+- Management: Lifestyle modifications, antacids, H2 blockers, proton pump inhibitors
+- Red flags: Difficulty swallowing (dysphagia), weight loss, vomiting blood, black stools
+
+=============================================================
+NEUROLOGICAL CONDITIONS
+=============================================================
+
+TENSION HEADACHE
+- Symptoms: Bilateral dull/pressing headache, band-like pressure around head, mild-to-moderate intensity, not worsened by activity, may have neck stiffness, no nausea/vomiting typically
+- Duration: 30 minutes to several hours
+- Risk Level: Low
+- Management: Analgesics (paracetamol, ibuprofen), stress management, relaxation
+- Red flags: Sudden severe "thunderclap" headache, headache with fever/stiff neck, progressive worsening, neurological deficits
+
+MIGRAINE
+- Symptoms: Unilateral throbbing headache, moderate-to-severe intensity, nausea/vomiting, photophobia, phonophobia, may have aura (visual disturbances, tingling), worsened by activity
+- Duration: 4-72 hours
+- Risk Level: Low to Moderate
+- Key differentiator: Aura, unilateral, associated symptoms, family history
+- Management: Triptans, NSAIDs, antiemetics, rest in dark quiet room; preventive therapy for frequent attacks
+
+STROKE (CVA) - EMERGENCY
+- Symptoms: Sudden face drooping (unilateral), arm weakness, speech difficulty/slurring, sudden severe headache, sudden vision changes, sudden dizziness/loss of balance
+- Risk Level: HIGH — Medical Emergency (Time Critical)
+- Key differentiator: FAST acronym - Face, Arms, Speech, Time
+- Management: CALL 911 IMMEDIATELY - "Time is Brain" - thrombolysis within 4.5 hours for ischemic stroke
+
+=============================================================
+METABOLIC/ENDOCRINE CONDITIONS
+=============================================================
+
+DIABETES MELLITUS - HYPERGLYCEMIA
+- Symptoms: Increased thirst (polydipsia), frequent urination (polyuria), unexplained weight loss, fatigue, blurred vision, slow healing wounds, frequent infections, tingling in extremities
+- Risk Level: Moderate (High if DKA)
+- Management: Blood glucose monitoring, insulin/oral hypoglycemics, diet, exercise
+- Red flags (DKA): Fruity breath, rapid breathing, confusion, vomiting — EMERGENCY
+
+HYPOTHYROIDISM
+- Symptoms: Fatigue, weight gain, cold intolerance, constipation, dry skin, hair thinning/loss, slow heart rate, depression, memory issues, muscle weakness, joint pain
+- Risk Level: Low to Moderate
+- Management: Levothyroxine replacement therapy, regular TSH monitoring
+
+DEHYDRATION
+- Symptoms: Thirst, dark urine, dry mouth, decreased urine output, headache, dizziness, fatigue, dry skin, muscle cramps, rapid heartbeat
+- Severity: Mild to Severe
+- Risk Level: Low (Mild) to High (Severe)
+- Management: Oral rehydration for mild-moderate; IV fluids for severe
+- Red flags: Confusion, no urine >8 hours, very dark/no urine, rapid heart rate, sunken eyes
+
+=============================================================
+MUSCULOSKELETAL CONDITIONS
+=============================================================
+
+MUSCULOSKELETAL PAIN / STRAIN
+- Symptoms: Localized pain, tenderness, swelling, reduced range of motion, muscle spasm, pain worsened by movement
+- Risk Level: Low
+- Management: RICE (Rest, Ice, Compression, Elevation), NSAIDs, physiotherapy
+- Red flags: Numbness/tingling, weakness, bowel/bladder changes (spinal), severe swelling
+
+ARTHRITIS (Osteoarthritis)
+- Symptoms: Joint pain (worsens with activity), stiffness (especially morning), crepitus, reduced range of motion, swelling, bony enlargements
+- Risk Level: Low to Moderate
+- Management: Weight management, exercise, analgesics, NSAIDs, physiotherapy, joint replacement in severe cases
+
+=============================================================
+MENTAL HEALTH CONDITIONS
+=============================================================
+
+ANXIETY DISORDER
+- Symptoms: Excessive worry, restlessness, fatigue, difficulty concentrating, irritability, muscle tension, sleep disturbances, palpitations, sweating, trembling, shortness of breath
+- Risk Level: Low to Moderate
+- Management: CBT, medication (SSRIs/SNRIs, benzodiazepines short-term), lifestyle changes
+
+DEPRESSION
+- Symptoms: Persistent low mood, loss of interest/pleasure (anhedonia), fatigue, appetite/weight changes, sleep disturbances, difficulty concentrating, feelings of worthlessness/guilt, psychomotor changes
+- Risk Level: Moderate (High if suicidal ideation)
+- Management: CBT, antidepressants (SSRIs first-line), social support
+- Red flags: Suicidal ideation — EMERGENCY mental health assessment needed

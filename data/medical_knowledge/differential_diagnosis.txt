@@ -1,0 +1,206 @@
+MEDICAL KNOWLEDGE BASE - DIFFERENTIAL DIAGNOSIS BY SYMPTOM
+Source: Clinical Decision Support Reference (Educational)
+
+=============================================================
+FEVER - DIFFERENTIAL DIAGNOSIS
+=============================================================
+
+Fever (<38.3°C - Low Grade):
+- Most likely: Viral URTI (common cold), early viral infection, dehydration, post-vaccination reaction
+- Less likely: Early bacterial infection, inflammatory condition
+- Management: Monitor, hydration, antipyretics if uncomfortable
+
+Fever (38.3-39°C - Moderate):
+- Most likely: Influenza, COVID-19, bacterial infection (UTI, sinusitis, pharyngitis), viral illness
+- Less likely: Early pneumonia, infectious mononucleosis
+- Management: Antipyretics, evaluate for source, consider testing
+
+Fever (>39°C - High):
+- Urgent consideration: Bacterial pneumonia, sepsis, meningitis, urinary tract infection, severe influenza
+- Red flag: Fever + stiff neck + photophobia = Meningitis until proven otherwise (EMERGENCY)
+- Management: Urgent medical evaluation, blood cultures if sepsis suspected
+
+APPROACH TO FEVER WITH KEY ASSOCIATED SYMPTOMS:
+- Fever + sore throat + lymphadenopathy → Pharyngitis/tonsillitis (Group A strep), Mono
+- Fever + productive cough + chest pain → Pneumonia
+- Fever + dysuria + flank pain → Pyelonephritis (kidney infection)
+- Fever + headache + stiff neck → Meningitis (EMERGENCY)
+- Fever + rash (non-blanching) → Meningococcemia (EMERGENCY)
+- Fever + joint pain + rash → Septic arthritis, Lyme disease, viral arthritis
+- Fever + diarrhea + vomiting → Gastroenteritis
+- Fever + confusion → Sepsis, encephalitis, severe infection (HIGH RISK)
+
+=============================================================
+CHEST PAIN - DIFFERENTIAL DIAGNOSIS
+=============================================================
+
+CARDIAC (HIGH RISK - Always consider first):
+- Acute Myocardial Infarction (STEMI/NSTEMI): Central, crushing, radiates to arm/jaw, diaphoresis, nausea
+- Unstable Angina: Similar to MI but may be transient/with exertion
+- Pericarditis: Sharp, worse lying flat, improved leaning forward, friction rub
+
+PULMONARY:
+- Pulmonary Embolism: Sudden pleuritic chest pain, dyspnea, tachycardia, risk factors (immobility, cancer)
+- Pneumothorax: Sudden sharp pain, shortness of breath, decreased breath sounds unilaterally
+- Pleuritis: Sharp, worse with breathing, positional
+
+GASTROINTESTINAL:
+- GERD/Esophagitis: Burning, epigastric, after meals, lying down, relieved by antacids
+- Esophageal Spasm: Can mimic cardiac, colicky, associated with swallowing
+- Peptic Ulcer: Epigastric, may relate to meals
+
+MUSCULOSKELETAL:
+- Costochondritis: Reproducible tenderness on palpation, sharp, positional
+- Muscle strain: Clear trauma/overuse history, tenderness
+
+PSYCHIATRIC:
+- Panic Attack: Palpitations, sweating, fear, dyspnea, no ECG changes — diagnosis of exclusion
+
+RISK STRATIFICATION FOR CHEST PAIN:
+- ALWAYS treat as cardiac until proven otherwise
+- Any chest pain with dyspnea, diaphoresis, radiation → HIGH RISK, EMERGENCY
+- Young patient, clear musculoskeletal trigger, reproducible on palpation → Lower risk but still evaluate
+
+=============================================================
+SHORTNESS OF BREATH - DIFFERENTIAL DIAGNOSIS
+=============================================================
+
+ACUTE ONSET:
+- Pulmonary Embolism: Sudden, pleuritic chest pain, tachycardia, risk factors
+- Pneumothorax: Sudden, unilateral decreased breath sounds
+- Anaphylaxis: Allergy exposure, urticaria, angioedema
+- Acute Pulmonary Edema: Pink frothy sputum, orthopnea, cardiac history
+- Acute Severe Asthma: Wheezing, known asthma, triggers
+
+SUBACUTE/CHRONIC:
+- Asthma: Episodic, wheezing, reversible, triggers
+- COPD: Chronic smoker, progressive dyspnea, chronic cough
+- Heart Failure: Exertional dyspnea, orthopnea, edema, cardiac history
+- Pneumonia: Fever, productive cough, pleuritic pain
+- Anemia: Fatigue, pallor, tachycardia, exertional dyspnea
+
+=============================================================
+HEADACHE - DIFFERENTIAL DIAGNOSIS
+=============================================================
+
+PRIMARY HEADACHES:
+- Tension Headache: Bilateral, pressing/band-like, mild-moderate, not worsened by activity
+- Migraine: Unilateral, throbbing, moderate-severe, nausea, photo/phonophobia, may have aura
+- Cluster Headache: Unilateral periorbital, severe, autonomic features (watering eye, nasal congestion)
+
+SECONDARY HEADACHES (DANGEROUS - Red Flags):
+- Subarachnoid Hemorrhage: "Thunderclap" - sudden, severe "worst headache of life"
+- Meningitis: Fever, stiff neck, photophobia, progressive
+- Hypertensive Crisis: BP >180/120, associated neurological symptoms
+- Brain Tumor: Progressive, worse in morning, associated with neurological deficits
+- Giant Cell Arteritis: Age >50, temporal tenderness, jaw claudication, visual changes
+
+ASSESSMENT APPROACH (SNOOP4 Red Flags):
+S - Systemic symptoms (fever, weight loss)
+N - Neurological symptoms or signs
+O - Onset sudden or explosive
+O - Older age (>50, new headache pattern)
+P - Previous headache history (change in pattern)
+P - Postural change worsens
+P - Progressive worsening
+P - Papilledema (sign of raised intracranial pressure)
+
+=============================================================
+ABDOMINAL PAIN - DIFFERENTIAL DIAGNOSIS BY LOCATION
+=============================================================
+
+RIGHT UPPER QUADRANT (RUQ):
+- Cholecystitis: Sharp/colicky, after fatty meals, fever, Murphy's sign positive
+- Hepatitis: Dull ache, jaundice, anorexia, dark urine
+- Pleuritic pain referred from right lung base pneumonia
+
+RIGHT LOWER QUADRANT (RLQ):
+- Appendicitis: Periumbilical pain migrating to RLQ, fever, anorexia, rebound tenderness
+- Ovarian pathology (women): Ovarian cyst, torsion, ectopic pregnancy
+- Inguinal hernia, mesenteric adenitis
+
+EPIGASTRIC:
+- Peptic Ulcer Disease: Burning, relation to meals (worse/better depending on H. pylori vs NSAID)
+- GERD: Burning, post-prandial
+- Pancreatitis: Severe, radiating to back, nausea, alcohol history
+- MI: Can present as epigastric pain (ALWAYS consider cardiac)
+
+LEFT UPPER QUADRANT (LUQ):
+- Splenic pathology, gastric pathology, pancreatitis (tail)
+- Left lower lobe pneumonia (referred)
+
+LEFT LOWER QUADRANT (LLQ):
+- Diverticulitis: Older patient, fever, LLQ pain
+- Ovarian pathology (women)
+- IBD (Crohn's/Ulcerative Colitis): Chronic, diarrhea, rectal bleeding
+
+DIFFUSE ABDOMINAL PAIN:
+- Gastroenteritis: Cramping, diffuse, diarrhea, vomiting
+- Peritonitis: Rigid abdomen, guarding, rebound - EMERGENCY
+- Bowel Obstruction: Colicky, distension, constipation, vomiting
+- Mesenteric Ischemia: Severe pain out of proportion to exam, risk factors
+
+=============================================================
+FATIGUE - DIFFERENTIAL DIAGNOSIS
+=============================================================
+
+COMMON CAUSES:
+- Sleep deprivation/poor sleep hygiene
+- Anemia (iron deficiency, B12 deficiency)
+- Hypothyroidism
+- Depression
+- Diabetes mellitus
+- Chronic infection (viral)
+- Dehydration
+
+LESS COMMON BUT IMPORTANT:
+- Adrenal insufficiency
+- Heart failure
+- Chronic kidney disease
+- Malignancy (weight loss, night sweats, lymphadenopathy)
+- Sleep apnea
+- Autoimmune conditions
+
+FATIGUE ASSESSMENT:
+- Duration: Acute (<1 month) vs. chronic (>6 months)
+- Associated symptoms: Weight loss, night sweats, fever (consider malignancy, chronic infection)
+- Impact on function: Mild vs. severe (functional impairment)
+- Timing: Worse in morning (depression, hypothyroidism) vs. worse evening (normal tiredness, anemia)
+
+=============================================================
+DERMATOLOGICAL SYMPTOMS - KEY PATTERNS
+=============================================================
+
+RASH WITH FEVER:
+- Meningococcal: Non-blanching petechiae/purpura → EMERGENCY
+- Viral exanthem: Maculopapular, blanching, starts trunk
+- Drug reaction: After new medication, variable morphology
+- Varicella (Chickenpox): Vesicular, pruritic, starts head/trunk
+- Measles: Koplik's spots, maculopapular starting face
+- Lyme Disease: Target-shaped (erythema migrans) after tick bite
+
+RASH WITHOUT FEVER:
+- Contact Dermatitis: Localized, exposure history, pruritic
+- Urticaria (Hives): Pruritic wheals, possible allergic trigger
+- Eczema/Atopic Dermatitis: Chronic, pruritic, typical distribution (flexures)
+- Psoriasis: Silvery plaques, extensor surfaces, scalp, nails
+
+=============================================================
+URINARY SYMPTOMS - DIFFERENTIAL DIAGNOSIS
+=============================================================
+
+DYSURIA (Painful Urination) + FREQUENCY:
+- Urinary Tract Infection (UTI): Most common in women, urgency, frequency, suprapubic pain, ± fever
+- Urethritis (STI): Consider in sexually active, discharge
+- Cystitis: Bladder infection, no upper tract involvement
+- Pyelonephritis: UTI + fever + flank/loin pain → Moderate-High risk
+
+INCREASED URINARY FREQUENCY WITHOUT DYSURIA:
+- Diabetes mellitus: Polyuria + polydipsia
+- Diabetes insipidus: Large volumes, dilute
+- Prostatism (BPH in men): Nocturia, poor stream, hesitancy
+- Overactive bladder: Urgency without infection
+
+HEMATURIA (Blood in Urine):
+- Microscopic: UTI, stone, glomerulonephritis, malignancy
+- Macroscopic (visible blood): Kidney/bladder stone, UTI, malignancy (painless hematuria in older patients → investigate for malignancy)
