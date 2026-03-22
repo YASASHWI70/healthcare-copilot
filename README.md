@@ -12,7 +12,7 @@ A production-style, multi-agent AI healthcare assistant that uses **LangChain**,
 
 | Feature | Implementation |
 |---|---|
-| 🤖  |
+| 🤖 Multi-Agent Architecture | 6 specialized LangChain agents + Orchestrator |
 | 🧠 Chain-of-Thought Reasoning | Step-by-step differential diagnosis reasoning |
 | 📚 RAG (Retrieval-Augmented Generation) | FAISS vector DB with curated medical knowledge |
 | ⚠️ Risk Stratification | Rule-based + LLM hybrid risk assessment |
