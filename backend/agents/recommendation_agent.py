@@ -8,15 +8,15 @@ Produces:
   - When to seek emergency care
 """
 
-# from typing import List
+from typing import List
 
-# from langchain_openai import ChatOpenAI
-# from langchain_core.messages import SystemMessage, HumanMessage
+from langchain_openai import ChatOpenAI
+from langchain_core.messages import SystemMessage, HumanMessage
 
-# from backend.config import OPENAI_API_KEY, OPENAI_MODEL
-# from backend.utils.models import (
-#     ExtractedSymptom, PossibleCondition, RiskLevel
-# )
+from backend.config import OPENAI_API_KEY, OPENAI_MODEL
+from backend.utils.models import (
+    ExtractedSymptom, PossibleCondition, RiskLevel
+)
 from backend.utils.logger import get_logger
 
 logger = get_logger(__name__)

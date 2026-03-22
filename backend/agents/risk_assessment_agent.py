@@ -10,14 +10,14 @@ Rule-based approach is used first (deterministic), with LLM
 providing nuanced rationale and handling edge cases.
 """
 
-# from typing import List, Tuple
+from typing import List, Tuple
 
-# from langchain_openai import ChatOpenAI
-# from langchain_core.messages import SystemMessage, HumanMessage
+from langchain_openai import ChatOpenAI
+from langchain_core.messages import SystemMessage, HumanMessage
 
-# from backend.config import OPENAI_API_KEY, OPENAI_MODEL
-# from backend.utils.models import ExtractedSymptom, PossibleCondition, RiskLevel
-# from backend.utils.logger import get_logger
+from backend.config import OPENAI_API_KEY, OPENAI_MODEL
+from backend.utils.models import ExtractedSymptom, PossibleCondition, RiskLevel
+from backend.utils.logger import get_logger
 
 logger = get_logger(__name__)
 

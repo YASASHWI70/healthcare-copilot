@@ -9,16 +9,16 @@ Uses an LLM with a structured JSON output prompt to parse:
   - Modifiers (intermittent, worsening, etc.)
 """
 
-# import json
-# import re
-# from typing import List, Optional
+import json
+import re
+from typing import List, Optional
 
-# from langchain_openai import ChatOpenAI
-# from langchain_core.messages import SystemMessage, HumanMessage
+from langchain_openai import ChatOpenAI
+from langchain_core.messages import SystemMessage, HumanMessage
 
-# from backend.config import OPENAI_API_KEY, OPENAI_MODEL
-# from backend.utils.models import ExtractedSymptom
-# from backend.utils.logger import get_logger
+from backend.config import OPENAI_API_KEY, OPENAI_MODEL
+from backend.utils.models import ExtractedSymptom
+from backend.utils.logger import get_logger
 
 logger = get_logger(__name__)
 
