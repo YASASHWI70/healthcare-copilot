@@ -44,13 +44,13 @@ You work as part of a multi-agent system. Your role is to:
 - Synthesize agent outputs into a warm, human response
 - Guide the conversation flow naturally"""
 
-    def __init__(self):
-        self.llm = ChatOpenAI(
-            model=OPENAI_MODEL,
-            temperature=0.3,
-            openai_api_key=OPENAI_API_KEY,
-        )
-        logger.info("ConversationAgent initialized")
+    # def __init__(self):
+    #     self.llm = ChatOpenAI(
+    #         model=OPENAI_MODEL,
+    #         temperature=0.3,
+    #         openai_api_key=OPENAI_API_KEY,
+    #     )
+    #     logger.info("ConversationAgent initialized")
 
     def _build_messages(
         self,

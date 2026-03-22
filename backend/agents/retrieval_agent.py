@@ -5,12 +5,12 @@ Queries the FAISS vector store with symptom-based queries and
 returns grounding context for other agents to use.
 """
 
-from typing import List
-from backend.rag.vector_store import retrieve_relevant_context
-from backend.utils.models import ExtractedSymptom
-from backend.utils.logger import get_logger
+# from typing import List
+# from backend.rag.vector_store import retrieve_relevant_context
+# from backend.utils.models import ExtractedSymptom
+# from backend.utils.logger import get_logger
 
-logger = get_logger(__name__)
+# logger = get_logger(__name__)
 
 
 class RetrievalAgent:
